@@ -1,7 +1,5 @@
 # GaryGarcia2703
 
-# Gary García
-
 Web development student currently focused on building modern and responsive applications.
 
 Currently finishing a Technical Course in Systems Development at Cedup Hermann Hering (CEDUP HH).
@@ -44,7 +42,7 @@ Currently finishing a Technical Course in Systems Development at Cedup Hermann H
 ## Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
