@@ -1,30 +1,12 @@
 # GaryGarcia2703
 
-# 👋 Hola, soy Gary
+# Gary García
 
-💻 Estudiante de desarrollo web  
-🛹 Me gusta el skate, diseño web y crear proyectos visuales  
-🚀 Actualmente aprendiendo JavaScript y React
+Web development student currently focused on building modern and responsive applications.
 
-## 🧠 Tecnologías
+Currently finishing a Technical Course in Systems Development at Cedup Hermann Hering (CEDUP HH).
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Git & GitHub
-
-## 📌 Proyectos
-
-- statusWeb
-- Landing page B&R Soluções
-
-## 📫 Contacto
-
-
-## Tecnologias
-
-<h2>🚀 Tecnologías y Herramientas</h2>
+## Technologies & Tools
 
 <p align="left">
 
@@ -53,7 +35,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
 
 </p>
-```
 
+## Projects
+
+- statusWeb
+- Landing Page B&R Soluções
+
+## Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 - GitHub: https://github.com/GaryGarcia2703
