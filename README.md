@@ -48,11 +48,11 @@ Currently finishing a Technical Course in Systems Development at Cedup Hermann H
 ## Contact
 
 <p align="left">
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/garygarciapino/" targer="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:gary.garcia2703@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -60,4 +60,3 @@ Currently finishing a Technical Course in Systems Development at Cedup Hermann H
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-- GitHub: https://github.com/GaryGarcia2703
