@@ -36,6 +36,13 @@ Currently finishing a Technical Course in Systems Development at Cedup Hermann H
 
 ## Projects
 
+<ul>
+  <li>
+    <img src="LINK_DO_PLANETA" width="20" align="center">
+    <a href="https://github.com/GaryGarcia2703/statusWeb">statusWeb</a>
+  </li>
+</ul>
+
 - statusWeb
 - Landing Page B&R Soluções
 
