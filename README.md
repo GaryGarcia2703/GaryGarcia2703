@@ -43,6 +43,9 @@ Currently finishing a Technical Course in Systems Development at Cedup Hermann H
   </li>
 </ul>
 
+
+ <img src="/assests/icon_azul.png" width="20"> <a href="https://github.com/GaryGarcia2703/br-solucoes">Landing Page B&R Soluções</a>
+
 - statusWeb
 - Landing Page B&R Soluções
 
