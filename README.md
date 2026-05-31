@@ -49,13 +49,8 @@ Currently finishing a Technical Course in Systems Development at Cedup Hermann H
 
  | Project |
 |----------|
-| <img src="/assests/planet-icon.png" width="20"  style="vertical-align: middle";> 
-[**statusWeb**](https://github.com/GaryGarcia2703/statusWeb) 
-
-|
-| <img src="assests/icon_azul.png" width="20"> [**Landing Page B&R Soluções**](https://github.com/GaryGarcia2703/br-solucoes) 
-
-|
+| <img src="/assests/planet-icon.png" width="20"> [**statusWeb**](https://github.com/GaryGarcia2703/statusWeb) |
+| <img src="assests/icon_azul.png" width="20"> [**Landing Page B&R Soluções**](https://github.com/GaryGarcia2703/br-solucoes) |
 | 🏋️ [**Site Academia**](https://github.com/GaryGarcia2703/site-academia) |
 
 
