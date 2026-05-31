@@ -69,6 +69,26 @@ Currently finishing a Technical Course in Systems Development at Cedup Hermann H
   🏋️ <a href="https://github.com/GaryGarcia2703/site-academia"><b>Site Academia</b></a>
 </p>
 
+
+<h2>Projects</h2>
+
+<ul>
+  <li>
+    <img src="LINK_DO_PLANETA" width="20">
+    <a href="https://github.com/GaryGarcia2703/statusWeb">statusWeb</a>
+  </li>
+
+  <li>
+    <img src="LINK_DO_ICONE_AZUL" width="20">
+    <a href="https://github.com/GaryGarcia2703/br-solucoes">Landing Page B&R Soluções</a>
+  </li>
+
+  <li>
+    🏋️
+    <a href="https://github.com/GaryGarcia2703/site-academia">Site Academia</a>
+  </li>
+</ul>
+
 - statusWeb
 - Landing Page B&R Soluções
 
