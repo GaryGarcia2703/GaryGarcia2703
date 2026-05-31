@@ -49,7 +49,7 @@ Currently finishing a Technical Course in Systems Development at Cedup Hermann H
 
  | Project |
 |----------|
-| <img src="/assests/planet-icon.png" width="20"  style="vertical-align: middle;> 
+| <img src="/assests/planet-icon.png" width="20"  style="vertical-align: middle";> 
 [**statusWeb**](https://github.com/GaryGarcia2703/statusWeb) 
 
 |
