@@ -48,24 +48,16 @@ Currently finishing a Technical Course in Systems Development at Cedup Hermann H
 ## Contact
 
 <p align="left">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
+  <a href="SEU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:SEU_EMAIL">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/GaryGarcia2703">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 - GitHub: https://github.com/GaryGarcia2703
